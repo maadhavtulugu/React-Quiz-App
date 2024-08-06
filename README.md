@@ -1,6 +1,8 @@
 Overview:
 
-    This is a simple quiz application built with React. It allows users to answer multiple-choice questions, track their scores, and view their performance at the end of the quiz.
+    This is a simple quiz application built with React. 
+    It allows users to answer multiple-choice questions, 
+    track their scores, and view their performance at the end of the quiz.
 
 Features:
 
